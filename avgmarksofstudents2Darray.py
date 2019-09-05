@@ -1,3 +1,4 @@
+#2D array of students marks
 ia = [['sai',100],['jeevan',200],['sai',200],['jeevan',700],['sai',900],['jeevan',2000],['sai',900]]
 b = {}
 c = {}
